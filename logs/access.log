@@ -1,0 +1,9 @@
+[2025-06-23T07:46:36.326Z] METHOD: POST | URL: /shorturls | BODY: {"url":"https://verefef/adddit/efsafed","validity":10,"shortcode":"popo"}
+[2025-06-23T07:48:01.420Z] METHOD: POST | URL: /shorturls | BODY: {"url":"https://www.google.com","validity":10,"shortcode":"popo"}
+[2025-06-23T07:48:07.800Z] METHOD: POST | URL: /shorturls | BODY: {"url":"https://www.google.com","validity":10,"shortcode":"paops"}
+[2025-06-23T07:49:15.314Z] METHOD: POST | URL: /shorturls | BODY: {"url":"http://www.google.com","validity":10,"shortcode":"paops"}
+[2025-06-23T07:49:23.106Z] METHOD: GET | URL: /paops | BODY: {}
+[2025-06-23T07:49:32.179Z] METHOD: GET | URL: /popa | BODY: {}
+[2025-06-23T07:49:35.878Z] METHOD: GET | URL: /popo | BODY: {}
+[2025-06-23T07:49:44.488Z] METHOD: GET | URL: /popo | BODY: {}
+[2025-06-23T07:50:22.280Z] METHOD: GET | URL: /paops | BODY: {}
